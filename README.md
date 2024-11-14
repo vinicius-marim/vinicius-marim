@@ -9,7 +9,7 @@ Entusiasta de ciência de dados, machine learning e inteligência artificial. Ac
 
 - ⚡ Estou sempre expandindo meus conhecimentos; após aprofundar-me em estatística e visualização de dados, agora estou explorando técnicas avançadas de machine learning e utilização de modelos de IA.
 - 🖥️ Quer conhecer mais do meu trabalho? Confira meu portfólio [aqui](https://vinicius-marim.github.io/index.html).
-- 🔍 Quer ver de perto meus projetos de ciência de dados? Você os encontra no meu [Repositórios](https://github.com/vinicius-marim?tab=repositories).
+- 🔍 Quer ver de perto meus projetos de ciência de dados? Você os encontra nos meus [Repositórios](https://github.com/vinicius-marim?tab=repositories).
 
 ### 🚀 Repositórios em Destaque
 Aqui estão alguns projetos que representam meu trabalho e interesses:
