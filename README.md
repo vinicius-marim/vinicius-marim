@@ -16,10 +16,6 @@ Aqui estão alguns projetos que representam meu trabalho e interesses:
 - [Cross Sell Seguro](https://github.com/vinicius-marim/cross_sell_seguradora)
 - [Previsão Vendas](https://github.com/vinicius-marim/previsao_vendas_rossmann)
 
-### 📚 Tech Articles and Talks 
-
- 📝 Se você tiver interesse em alguns conteúdos sobre ciência de dados, confira os meus posts no [**Medium**](https://medium.com/)
-
 
 <!---
 vinicius-marim/vinicius-marim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
