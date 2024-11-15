@@ -3,8 +3,8 @@
 
 ### Olá! 👋
 
-Sou Vinicius, Cientista de Dados | Explorador de Insights | Criador de Soluções Inteligentes 🚀
-Bem-vindo ao meu GitHub! Aqui compartilho projetos e experimentos que revelam minha jornada na Data Science. Meu foco é transformar dados em insights valiosos e decisões impactantes.
+Sou Vinicius, Cientista de Dados | Explorador de Insights | Criador de Soluções Inteligentes 
+Aqui compartilho projetos e experimentos que revelam minha jornada na Data Science. Meu foco é transformar dados em insights valiosos e decisões impactantes.
 Entusiasta de ciência de dados, machine learning e inteligência artificial. Acredito no poder dos dados para resolver problemas reais e inspirar decisões informadas.
 
 - ⚡ Estou sempre expandindo meus conhecimentos; após aprofundar-me em estatística e visualização de dados, agora estou explorando técnicas avançadas de machine learning e utilização de modelos de IA.
