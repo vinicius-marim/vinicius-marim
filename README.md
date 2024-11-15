@@ -4,6 +4,7 @@
 ### Olá! 👋
 
 Sou Vinicius, Cientista de Dados | Explorador de Insights | Criador de Soluções Inteligentes 
+
 Aqui compartilho projetos e experimentos que revelam minha jornada na Data Science. Meu foco é transformar dados em insights valiosos e decisões impactantes.
 Entusiasta de ciência de dados, machine learning e inteligência artificial. Acredito no poder dos dados para resolver problemas reais e inspirar decisões informadas.
 
